@@ -17,3 +17,20 @@
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.CopyComplete
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.dll
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\xunit.assert.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\xunit.assert.xml
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\es\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.AssemblyReference.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.CoreCompileInputs.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.CopyComplete
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.pdb

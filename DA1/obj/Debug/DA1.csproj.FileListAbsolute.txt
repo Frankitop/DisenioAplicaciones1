@@ -9,3 +9,14 @@
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\DA1\obj\Debug\DA1.csproj.CopyComplete
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\DA1\obj\Debug\DA1.exe
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\DA1\obj\Debug\DA1.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\bin\Debug\DA1.exe.config
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\bin\Debug\DA1.exe
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\bin\Debug\DA1.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\bin\Debug\BusinessLogic.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\bin\Debug\BusinessLogic.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.csproj.SuggestedBindingRedirects.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.csproj.CopyComplete
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.exe
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\DA1\obj\Debug\DA1.pdb

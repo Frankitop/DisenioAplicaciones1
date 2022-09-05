@@ -9,3 +9,14 @@
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.exe
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.exe
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\bin\Debug\BusinessLogic.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\bin\Debug\BusinessLogic.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.SuggestedBindingRedirects.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.exe
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.pdb

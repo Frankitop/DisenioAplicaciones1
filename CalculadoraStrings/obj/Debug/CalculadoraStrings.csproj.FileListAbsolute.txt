@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.dll
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\bin\Debug\CalculadoraStrings.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\bin\Debug\CalculadoraStrings.pdb
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.csproj.AssemblyReference.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.csproj.CoreCompileInputs.cache
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.dll
+D:\Git\DiseñoAplicaciones\DisenioAplicaciones1\CalculadoraStrings\obj\Debug\CalculadoraStrings.pdb
