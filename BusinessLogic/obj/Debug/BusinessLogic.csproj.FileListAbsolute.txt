@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\bin\Debug\BusinessLogic.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\obj\Debug\BusinessLogic.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\BusinessLogic\obj\Debug\BusinessLogic.pdb

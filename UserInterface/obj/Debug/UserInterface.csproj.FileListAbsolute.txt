@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.exe.config
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.exe
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\bin\Debug\UserInterface.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\bin\Debug\BusinessLogic.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\bin\Debug\BusinessLogic.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.exe
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\UserInterface\obj\Debug\UserInterface.pdb
