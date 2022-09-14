@@ -1,7 +1,3 @@
-\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.dll
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.pdb
 \\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.dll

@@ -11,7 +11,7 @@ namespace UserInterface
     {
         static void Main(string[] args)
         {
-            Camion unCamion = new Camion();
+            Camiones unCamion = new Camiones();
             unCamion.Chapa = "CHA4545";
             unCamion.Carga = 1000;
             Console.WriteLine("El camion matricula {0} soporta hasta {1}", unCamion.Chapa,unCamion.Carga);
