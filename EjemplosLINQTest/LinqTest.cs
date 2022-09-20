@@ -11,6 +11,7 @@ namespace EjemplosLINQTest
         private Universidad universidad;
 
         [TestInitialize]
+        // [DataRow()]
         public void TestInit()
         {
             this.universidad = new Universidad();

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic
 {
-    public class Camion
+    public class Camiones
     {
         public string Chapa { get; set; }
         public int Carga { get; set; }
