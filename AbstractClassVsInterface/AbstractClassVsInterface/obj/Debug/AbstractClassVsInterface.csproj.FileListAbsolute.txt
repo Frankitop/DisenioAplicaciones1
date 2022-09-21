@@ -1,0 +1,3 @@
+C:\Users\Administrador\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.csproj.CoreCompileInputs.cache
