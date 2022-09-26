@@ -39,3 +39,20 @@ C:\Users\Administrador\Desktop\Entidades\Interfaz\obj\Debug\Interfaz.csproj.Copy
 C:\Users\Administrador\Desktop\Entidades\Interfaz\obj\Debug\Interfaz.exe
 C:\Users\Administrador\Desktop\Entidades\Interfaz\obj\Debug\Interfaz.pdb
 C:\Users\Administrador\Desktop\Entidades\Interfaz\obj\Debug\Interfaz.AgregarPeriferico.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\bin\Debug\Interfaz.exe.config
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\bin\Debug\Interfaz.exe
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\bin\Debug\Interfaz.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\bin\Debug\Entidades.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\bin\Debug\Entidades.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.AgregarMaquina.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.AgregarPeriferico.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.Form1.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.ListarMaquinas.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.exe
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Interfaz\obj\Debug\Interfaz.pdb

@@ -16,3 +16,9 @@ C:\Users\Administrador\Desktop\Entidades\Entidades\obj\Debug\Entidades.csproj.As
 C:\Users\Administrador\Desktop\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\Entidades\Entidades\obj\Debug\Entidades.dll
 C:\Users\Administrador\Desktop\Entidades\Entidades\obj\Debug\Entidades.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\bin\Debug\Entidades.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\bin\Debug\Entidades.pdb
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\obj\Debug\Entidades.dll
+\\Mac\Home\Desktop\Licenciatura en Sistemas\Diseño Aplicaciones 1\repos\DisenioAplicaciones1\Entidades\Entidades\obj\Debug\Entidades.pdb

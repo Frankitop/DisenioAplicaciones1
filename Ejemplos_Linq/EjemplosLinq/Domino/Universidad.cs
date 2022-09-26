@@ -69,7 +69,9 @@ namespace EjemplosLinq.Domino
          */
         public List<Docente> DocentesPorMateria(Materia materiaFiltro)
         {
-            List<Docente> docentes = null; //TO DO LINQ
+            List<Docente> docentes = this.Materias
+                                        .Where(materia => materia.Nombre == materiaFiltro.Nombre)
+                                        .SelectMany(materia => materia.Docentes).Distinct().ToList(); ; //TO DO LINQ
             return docentes;
         }
 
@@ -78,7 +80,8 @@ namespace EjemplosLinq.Domino
          */
         public Estudiante ObtenerEstudiantePorCedula(int cedula)
         {
-            Estudiante estudianteCI = null; //TO DO LINQ
+            Estudiante estudianteCI = this.Estudiantes
+                                    .Where( estudiante => estudiante.Cedula == cedula) as Estudiante; //TO DO LINQ
 
             if (estudianteCI == null)
             {
